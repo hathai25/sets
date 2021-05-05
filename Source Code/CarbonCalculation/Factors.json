@@ -1,0 +1,63 @@
+{
+    "Footprint Intensity" : {
+        "Veggies, potatoes & fruit" : [1.5761556044097, 0],
+        "Bread and bakery products" : [8.32034796589599, 0],
+        "Flour, rice, noodles, cereal products (exc maize)" : [8.32034796589599, 0],
+        "Maize" : [4.9563371416116, 0],
+        "Beans and other dried pulses" : [23.9749042674038, 0],
+        "Milk, cream, yogurt, sour cream" : [2.31670228910906, 1.24432374622176],
+        "Ice cream, other frozen dairy" : [11.5835114455453, 6.22161873110881],
+        "Cheese, butter" : [23.1670228910906, 12.4432374622176],
+        "Eggs" : [20.7734633330677, 0],
+        "Pork" : [27.9104927492666, 0],
+        "Chicken, turkey" : [18.9919556676314, 0],
+        "Beef" : [54.6810606714617, 32.282420803415],
+        "Mutton, goat" : [46.9471651401319, 31.121305388961],
+        "Fish" : [121.905959403869, 0],
+        "Sugar" : [3.42500709712467, 0],
+        "Vegetable oil" : [61.7534027331211, 0],
+        "Margarine" : [61.7534027331211, 0],
+        "Coffee & tea" : [40.1401028109444, 0],
+        "Juice & wine" : [3.77360548932992, 0],
+        "Beer" : [1.97484294849812, 0],
+        "Cotton" : [39.2725078863187, 0],
+        "Wool" : [0, 0],
+        "Cigarettes, other tobacco products" : [13.5699376705637, 0],
+        "Timber" : [6468.90502040795, 0]
+    },
+    "Constants and Conversion Factors":{
+        "absorption rate" : 0.95,
+        "% absorbed by oceans" : 0.31,
+        "coal intensity" : 0.026,
+        "oil intensity" : 0.020,
+        "natural gas intensity" : 0.015,
+        "coal absorption" : 0.19,
+        "oil absorption" : 0.15,
+        "natural gas absorption" : 0.11,
+        "Pre-purchase food loss" : 1.1,
+        "Structural consumption" : 1.1,
+        "Total built area of goods and waste" : 1.0825,
+        "Total built area of services" : 244,
+        "Weight conversion" : 244,
+        "Area conversion (acres/ha)" : 2.47,
+        "Area conversion (m^2/ft^2)" : 0.093,
+        "Volume conversion" : 0.946
+    },
+    "Equivalence and Yield Factors & Footprint":{
+        "Fossil Energy" : [1.3455739595545, 0],
+        "Cropland" : [2.17388912860702, 0],
+        "Pasture" : [0.472522344252373, 1.27187782876714],
+        "Forest" : [1.3455739595545, 0],
+        "Built-up land" : [2.17388912860702, 1.41064816911878],
+        "Fisheries" : [0.352649408783815, 0]
+    },
+    "Correction Factors for US":{
+        "Food" : [1.03057769469349, 1.35425954950139, 1.74738060683099, 0, 0, 2.88063667204357],
+        "Housing" : [0.975608993682976, 0, 0, 1.5983848643669, 0.775769434829122, 0],
+        "Transportation" : [0.729075760933466, 0, 0, 0, 1.1930181467482, 0],
+        "Goods" : [4.73438813969137, 4.30078538745452, 2.16206817224631, 2.91393822557969, 0.325670417297619, 0],
+        "Services" : [4.21450866106713, 0, 0, 3.52244560814811, 0.325670417297619, 0],
+        "Waste" : [4.73438813969137, 0, 0, 2.91393822557969, 0.325670417297619, 0],
+        "US average fossil fuel" : [1903, 1652, 1283]
+    }
+}

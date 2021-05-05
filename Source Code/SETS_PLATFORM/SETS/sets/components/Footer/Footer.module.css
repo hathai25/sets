@@ -1,0 +1,46 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+
+.footer {
+    border-top: 1px solid #ebebeb;
+    background: white ;
+    padding: 40px 0;
+}
+.footer .section-title {
+    text-align: center;
+    color: black;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+}
+.footer h5{
+	padding-left: 10px;
+    border-left: 3px solid black;
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+    color: #191919;
+}
+.footer a {
+    color: #595959;
+    font-size: 18px;
+    text-decoration: none !important;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+
+.footer ul.quick-links li a i{
+	margin-right: 5px;
+}
+
+
+@media (max-width:767px){
+	.footer h5 {
+    padding-left: 0;
+    border-left: transparent;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+}
+
+    
+    
